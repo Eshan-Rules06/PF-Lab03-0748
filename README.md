@@ -1,5 +1,18 @@
 # PF-Lab03-0748
-Hi, I'm Eshan Hussain
-Studying BSCS from FAST University
-A very keen interest in AI software
-Learning new programming languages slowly by slowly
+## My Heading
+
+### My Ordered List:
+1. Eshan
+2. Likes Astronomy and Coding
+3. 18
+
+### My UnOrdered List:
+- Degree BSCS
+- Birthday in November
+- Lives in Karachi
+  
+*Likes playing games*
+
+**Learning new skills day by day**
+
+***Likes to Stargaze***
